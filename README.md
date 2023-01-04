@@ -3,7 +3,7 @@
 
 <h4>Hacktoberfest-2k22</h4>
 
-[![@royroopshali's Holopin board](https://holopin.me/royroopshali)](https://holopin.io/@royroopshali)
+[![An image of @royroopshali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/royroopshali)](https://holopin.io/@royroopshali)
 
 <h3 align="center">Machine Learning, Data Science and Artificial Intelligence Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
